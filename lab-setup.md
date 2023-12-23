@@ -34,7 +34,7 @@ To run the lab VM:
      - **VMware:** double click the .vmx file (e.g. `rx-m-lab-vm.vmx`) inside the decompressed folder (when
        asked, say you __copied__ the VM)
      - **VirtualBox:** double click the OVA file (when asked, agree to import the VM)
-4. Login to the VM with the username "user" and the password "user"
+4. Login to the VM with the username "ubuntu" and the password "ubuntu"
 
 
 ## What could go wrong?
